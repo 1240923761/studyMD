@@ -40,3 +40,4 @@ PUT http://127.0.0.1:9200/yourindex/_mapping
 }
 ```
 ### What is mapping?
+mapping is something like a fieldlist in SQL database
